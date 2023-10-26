@@ -1,0 +1,19 @@
+.comming_soon_container{
+    background-color: black;
+    height: 100vh;
+    overflow: hidden;
+}
+.des{
+    position: relative;
+    top: -16rem;
+    left: 30%;
+    width: 36%;
+    height: auto;
+
+
+}
+.robot{
+    position: relative;
+    top: 11rem;
+    width:26% ;
+}

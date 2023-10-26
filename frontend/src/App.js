@@ -1,8 +1,9 @@
-
+import Comming  from "./components/Comming";
 
 function App() {
   return (
   <>
+  <Comming></Comming>
   </>
   );
 }
