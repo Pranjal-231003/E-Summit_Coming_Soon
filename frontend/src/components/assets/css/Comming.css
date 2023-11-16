@@ -8,8 +8,9 @@
     position: relative;
     top: -19rem;
     left: 30%;
-    width: 36%;
+    width: 39%;
     height: auto;
+<<<<<<< Updated upstream
   }
   
   .robot {
@@ -57,3 +58,17 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
+=======
+    background: url("../Design.gif"), lightgray 0px 0px / 100% 104.312% no-repeat;
+
+
+}
+.robot{
+    position: relative;
+    top: 8rem;
+    left: -9rem;
+    width: 31.4375rem;
+height: 31.4375rem;
+flex-shrink: 0;
+}
+>>>>>>> Stashed changes
